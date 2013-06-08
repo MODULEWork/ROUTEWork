@@ -1,6 +1,7 @@
 {
     "name": "modulework/routework",
     "description": "A basic RESTful router for PHP",
+    "type": "module",
     "license": "Apache 2.0",
     "authors": [
         {
